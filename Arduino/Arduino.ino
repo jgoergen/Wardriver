@@ -1,7 +1,3 @@
-// https://www.hackster.io/rayburne/esp8266-mini-sniff-f6b93a
-// https://github.com/spacehuhn/esp8266_deauther
-// https://github.com/samdenty99/Wi-PWN
-
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h> 
 #include <ESP8266WebServer.h>
