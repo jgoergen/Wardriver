@@ -25,7 +25,7 @@ COMING SOON!
 2. The html / css / javascript needed to extrapolate log data can be found in the /GPS_Data_Parser/ directory. NOTE: This has only been tested in chrome, and requires an internet connection for the map functionality to work.
 3. You'll find the awful graphics I drew in the /Bitmaps/ directory.
 
-##Hardware
+## Hardware
 1. Wemos D1 Mini Pro to control everything [Amazon Link](https://www.amazon.com/gp/product/B07333L9VR/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1)
 2. Oled sheild for display [Amazon Link](https://www.amazon.com/gp/product/B071DW4CZH/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1)
 3. Micro SD Card Reader [Amazon Link](https://www.amazon.com/gp/product/B01JYNEX56/ref=oh_aui_detailpage_o03_s01?ie=UTF8&psc=1)
@@ -34,7 +34,7 @@ COMING SOON!
 6. 2 10k Resistors
 3. Tactile push buttons
 
-##Schematic:
+## Schematic:
 COMING SOON!
 
 ##Software description
